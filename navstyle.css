@@ -30,9 +30,10 @@
 
 .search{
     display: flex;
-    align-self: center;
+    align-self: flex-end;
     margin-left:auto;
     padding-top: 15px;
+    padding-bottom: 25px
     
 }
 
